@@ -4,7 +4,7 @@
 
 Welcome to **HTML & CSS Workshop!** Join us on this journey through HTML and CSS fundamentals at GDG PUP Web Development.
 
-Dive deeper into the world of web design with hands-on practice! 🌐 This repository is designed for cadets to solidify their skills and reinforce key concepts from the HTML & CSS workshop held during November 24 live study jam. Whether you're refreshing what you learned or taking your first steps in web development, this repository has everything you need to master the basics and build your confidence as a front-end developer. Let’s turn your ideas into beautiful web pages!
+Dive deeper into the world of web design with hands-on practice! 🌐 This repository is designed for cadets to solidify their skills and reinforce key concepts from the HTML & CSS workshop held during November 24 live study jam. Whether you're refreshing what you learned or taking your first steps in web development. Let’s turn your ideas into beautiful web pages!
 
 ### 👀 What's Inside It
 
