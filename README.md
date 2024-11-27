@@ -4,7 +4,7 @@
 
 Welcome to **HTML & CSS Workshop!** Join us on this journey through HTML and CSS fundamentals at GDG PUP Web Development.
 
-Dive deeper into the world of web design with hands-on practice! 🌐 This repository is designed for cadets to solidify their skills and reinforce key concepts from the HTML & CSS workshop held during yesterday's live study jam. Whether you're refreshing what you learned or taking your first steps in web development, this repository has everything you need to master the basics and build your confidence as a front-end developer. Let’s turn your ideas into beautiful web pages!
+Dive deeper into the world of web design with hands-on practice! 🌐 This repository is designed for cadets to solidify their skills and reinforce key concepts from the HTML & CSS workshop held during November 24 live study jam. Whether you're refreshing what you learned or taking your first steps in web development, this repository has everything you need to master the basics and build your confidence as a front-end developer. Let’s turn your ideas into beautiful web pages!
 
 ### 👀 What's Inside It
 
@@ -35,7 +35,7 @@ This repository contains the following **main** folders:
 
 ## Your First Project Assignment!
 
-![Project Photo](./Assets/Images/ProjectImages/BlogProject.png)
+![Project Photo](https://private-user-images.githubusercontent.com/149306718/389901328-d5163dbb-e98f-4398-b97e-2a8bd3100e39.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzI2OTI1NzMsIm5iZiI6MTczMjY5MjI3MywicGF0aCI6Ii8xNDkzMDY3MTgvMzg5OTAxMzI4LWQ1MTYzZGJiLWU5OGYtNDM5OC1iOTdlLTJhOGJkMzEwMGUzOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEyN1QwNzI0MzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01ZTkwMWYwNjhlYmNmMDIyOTM4ZTQzOGZmNWNlYzA1ZTRmZDgyNWFmZWU4NzZiMDJiMjEyNWUyYjIwNjlhZjI1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.iE0obH4EhhAfN2-GLGrvZPQ5KNzXBouVu6i5dNvP0dw)
 
 ### Project Description
 In this project, you'll create a Static Blog Website inspired by a professional developer hub. Your blog will feature multiple sections, including:
